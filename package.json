@@ -14,8 +14,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "devStart": "nodemon server.js",
-    "build": "echo 'hello build'"
+    "devStart": "nodemon server.js"
   },
   "keywords": [],
   "author": "",
